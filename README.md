@@ -48,6 +48,5 @@ The **Random Forest model** outperformed others with the highest accuracy (~83%)
 - Ensemble methods like Random Forest deliver robust performance
 - Visualization helped in understanding data patterns and model behavior
 
-### Project Structure
 
 
